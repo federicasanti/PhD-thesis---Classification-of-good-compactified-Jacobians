@@ -8,7 +8,7 @@ X.
 
 - Provides a local description of the stack of rank 1 torsion-free sheaves for arbitrary nodal curves.
 
-- Gives a geometric and combinatorial classification of all good compactified Jacobians of genus 1 necklaces (nodal curves whose dual graph is an n-gon).
+- Gives a geometric and combinatorial classification of all good compactified Jacobians of necklaces of genus 1 (nodal curves whose dual graph is an n-gon).
 
 - Classifies compatible choices of good compactified Jacobians for families of stable necklaces.
 
